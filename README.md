@@ -1,0 +1,2 @@
+# Traducciones
+Parches de traducciones
