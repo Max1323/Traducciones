@@ -1,0 +1,8 @@
+Controles:
+A: Set
+B: Sentido
+C: S/P Modo
+A + B: Instalar estación
+B + < ó B + >: Sentido: Cambia el movimiento solo hay 3, Mover, Poner Riel y Remover Riel.
+B + ^ ó B + v: Sentido: Posición de la cámara.
+C + < ó C + >: S/P Modo: Cambia las direcciones de los trenes cuando llegan a los rieles, horarios para la salida de trenes. (Solo se puede hacer durante la noche)
