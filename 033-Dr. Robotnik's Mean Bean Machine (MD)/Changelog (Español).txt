@@ -1,0 +1,17 @@
+Versión 1.2:
+	- Se quitó el punto de "VS." por lo que ahora
+	  dice "VS". Es una mejor forma para ser
+	  mostrada.
+
+Versión 1.1:
+	- Se cambiaron unos bytes en el rom header que
+	  impedia que el juego funcione en BlastEm /
+	  Model 1 Mega Drive.
+	- ELENCO se cambio a PERSONAJES.
+	- Se mejoraron las letras P, R y E del MENÚ
+          PRINCIPAL.
+	- Se quitó la Screen Splash que fue publicidad
+	  para el SONIC HACKING CONTEST (2021).
+
+Versión 1.0:
+	- Presentado en el SONIC HACKING CONTEST (2021).

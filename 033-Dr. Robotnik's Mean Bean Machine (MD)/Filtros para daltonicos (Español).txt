@@ -1,0 +1,41 @@
+Se empezó a añadir filtros para las personas con daltonismo para la traducción al Español. 
+Por el momento, solo se puede aplicar 1 filtro. 
+En vez de lanzar parches separados, se incluyó el Código Fuente en donde se 
+requerirá aplicar el filtro que quieras usar.
+
+Notar que estos filtros aún están en fase beta y por ahora, 
+solo la paleta de los beans se cambiaron.
+
+	1: Compra el juego de Steam:
+	   https://store.steampowered.com/app/34286/Dr_Robotniks_Mean_Bean_Machine/
+
+	2: Busca la rom "ROBOTNIK_U.68K" de la siguiente carpeta:
+	   C:\Program Files (x86)\Steam\steamapps\common\Sega Classics\uncompressed ROMs
+
+	3: Copia y pega la rom en la siguiente carpeta:
+	   Código fuente/Source Code > Spanish > rom
+
+	4: Cambia el nombre de la rom a: DRMBM.bin
+
+	5: Usa Lunar IPS (Windows - https://www.romhacking.net/utilities/240/)
+           UniPatcher (Android - https://www.romhacking.net/utilities/959/) 
+	   para aplicar el parche de "DRMBM.ips" a "DRMBM.bin".
+	
+	6: Usa "Notepad++" (descarga: https://notepad-plus-plus.org/downloads/) 
+	   para abrir "DRMBM (Translation).asm" de la carpeta: Código fuente/Source Code.
+
+	7: En la línea 9 está el ajuste de "SpanishDialog" (Diálogo en Español). Cambia el número de "equ" a lo siguiente:
+	   - 0 = Español Latino
+	   - 1 = Castellano/ Español Europeo
+	
+	8: En la línea 25 está el ajuste de "ColorBlind" (Dáltonico). Cambia el número de "equ" a lo siguiente:
+	   - 0 = Usar paleta original
+	   - 1 = Usar filtro Tricromático (paletas mejoradas)
+	   - 2 = Usar filtro Deuteranopía (color verde)
+	   - 3 = Usar filtro Protanopia (color rojo)
+	   - 4 = Usar filtro Tritanopia (color azul)
+	
+	9: Guarda los cambios y cierra Notepad++
+
+       10: Clic en "build.bat" para crear la rom. Será llamada:
+	   "Dr_Robotnik's_Mean_Bean_Machine_Translation.bin"
