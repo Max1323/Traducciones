@@ -1,5 +1,5 @@
 "Dragon Scroll: Resurrección del Demonio Dragón"
-Traducción al Español Ver. 1.0 (14/03/2025)
+Traducción al Español Ver. 1.1 (29/03/2025)
 por Max1323 (Traducciones Max1323).
 Basada en la gran traducción de KingMike's Translations, Eien Ni Hen y FlashPV.
 ---------------------------------------------------
