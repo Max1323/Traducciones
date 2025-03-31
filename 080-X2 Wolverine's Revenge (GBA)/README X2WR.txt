@@ -1,5 +1,5 @@
 "X2 Wolverine's Revenge"
-Traducción al Español Ver. 1.0 (23/07/2020)
+Traducción al Español Ver. 1.1 (27/07/2020)
 por Max1323 (maxmuruchi@gmail.com)
 ---------------------------------------------------
 Descripción:
@@ -13,6 +13,7 @@ Lanzamiento:  15/04/2003 (USA)
               17/04/2003 (EUR)                        ---------------------------------------------------
 Acerca del proyecto:
 Se tradujo los textos y se le agregó algunos caracteres españoles que ya estaban incluidos a excepción de ¿ y ¡.
+Arregla una palabra.
 ---------------------------------------------------
 Instrucciones del parche:
 Utilizar Lunar IPS
