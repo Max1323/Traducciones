@@ -1,5 +1,5 @@
 "The Fairytale Dreams of Alice"
-Traducción al Español Ver. 1.0 (2/01/2026)
+Traducción al Español Ver. 1.0 (10/01/2026)
 por Max1323 (Traducciones Max1323).
 Basada en la gran traducción de Dave Shadoff, filler, MooZ y Diogo Ribeiro.
 ---------------------------------------------------
